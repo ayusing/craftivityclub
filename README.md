@@ -213,3 +213,5 @@ All content in the demo is public domain. Textual content in this project is eit
 Test weebhook
 
 again checking push notification
+
+checking docker connectivity
